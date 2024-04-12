@@ -1,1 +1,1 @@
-# Amazon-clone using html||css
+# Amazon-clone using Html||css
